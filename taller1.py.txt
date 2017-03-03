@@ -1,0 +1,16 @@
+#Punto Uno
+
+for i in range (20,0,-1):
+    print (i)
+
+    
+
+#Punto Dos
+
+cadena = 'miguel tarquino ya arreglo el cargador del computador'
+x = 0;
+for i in cadena:
+    if(i == 'a'):
+        x = x + 1
+print('Esta cadena "'+cadena+'" tiene '+(str(x))+' a')
+
